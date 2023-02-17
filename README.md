@@ -49,38 +49,6 @@ The purpose of the attendance monitoring system is to ease the attendance proces
 Relational Database Management System (RDBMS)
 
 
-## Login Page
-
-![Log In](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Login/log.PNG)
-
-## Registration Page
-
-![Registration](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Register/register.PNG)
-
-## Home Page 
-
-![Home](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Home/home.PNG)
-
-## Student Page
-
-![Student](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Student/st.PNG)
-
-
-
-
-
-## Attendance
-
-![Attendance](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Attendance/at01.PNG)
-
-## ChatBot
-
-![ChatBot](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/ChatBot/cht.PNG)
-## Photos Captured for Training
-
-![Photo](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Photos/pp.PNG)
-
-
 ## Project Modules
 
 ### MODULES
